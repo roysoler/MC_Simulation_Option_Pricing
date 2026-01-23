@@ -18,5 +18,5 @@ dS_t = r S_t dt + σ S_t dW_t
 - matplotlib
 
 ## How to run
-pip install -r requirements.txt
+pip install -r requirements.txt    
 python src/MonteCarloSimulation.ib
